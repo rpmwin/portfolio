@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(npm install:*)",
+      "Bash(npx tailwindcss:*)",
+      "Bash(npm run dev:*)",
+      "Skill(qa)",
+      "Bash(gh repo *)",
+      "Read(//private/tmp/portfolio-old/**)",
+      "Bash(ls v1-2024/)",
+      "Bash(git -C /tmp/portfolio-old status)",
+      "Bash(rsync -a --exclude='.gstack' --exclude='node_modules' --exclude='.git' /Users/iamrpm/Developer/projects/portfolio/ /tmp/portfolio-old/)"
+    ]
+  }
+}
